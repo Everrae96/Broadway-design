@@ -1,0 +1,219 @@
+@charset "utf-8";
+.jumbotron {
+	background-image: url(hero.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	padding-top: 195px;
+}
+.jumbotron .display-4.text-center {
+	color: white;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	position: relative;
+	top: -62px;
+	font-size: xx-large;
+}
+.jumbotron .lead.text-center .btn.btn-primary.btn-lg.text-center {
+	border-color: white;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	position: relative;
+	top: -62px;
+	font-size: medium;
+}
+.jumbotron .lead.text-center .btn.btn-lg.text-center {
+	border-color: white;
+	color: white;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	position: relative;
+	top: -65px;
+}
+.row .col-md-6 #textfield {
+	border-style: none;
+	border-radius: 10px;
+}
+.row .col-md-6 #textfield2 {
+	border-radius: 10px;
+}
+#form1 .row label {
+	color: white;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+.row .col-md-6 #textfield {
+	text-align: left;
+}
+#form1 .row .col-md-6 {
+	text-align: left;
+	position: relative;
+	right: 16px;
+
+}
+.container #form1 .row {
+	position: relative;
+	top: 60px;
+}
+.col-md-12-buttons   {
+	position: relative;
+	top: 25px;
+	left: -16px;
+	border-color: white;
+}
+.button-reset {
+	width: 146px;
+	position: relative;
+	right: -24px;
+}
+.button-submit {
+	width: 146px;
+}
+
+
+
+
+
+
+.container-fluid #form1 {
+	width: 634px;
+	position: relative;
+	right: -127px;
+}
+.container-fluid .container #form1 {
+	position: relative;
+	right: -24px;
+}
+
+
+
+
+
+
+
+.container-fluid {
+	background-image: url(contact.jpg);
+	padding-bottom: 207px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 0% 52%;
+
+}
+.row .col-md-6 label {
+	color: white;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+
+.navbar.navbar-expand-lg .navbar-brand {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	color: white;
+}
+.container-fluid .display-4 {
+	color: White;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	text-align: center;
+}
+
+.navbar.navbar-expand-lg {
+	background-color: black;
+}
+
+
+
+
+
+.text-canter {
+}
+#navbarSupportedContent1 .navbar-nav.mr-auto .nav-item.active {
+	color: white;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+#navbarSupportedContent1 .navbar-nav.mr-auto .nav-item {
+	color: white;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+.navbar.navbar-expand-lg div {
+	color: white;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	list-style-type: none;
+}
+div ul li {
+	list-style-type: none;
+	display: inline-block;
+	margin-right: 18px;
+	text-align: center;
+	padding-top: 0px;
+	clear: right;
+}
+.navbar.navbar-expand-lg div .text-center {
+	position: relative;
+
+}
+.content-col-1 {
+	text-align: center;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	width: 33%;
+
+}
+.content-col-2 {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	text-align: center;
+	width: 33px;
+
+}
+.content-col-3 {
+	text-align: center;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	width: 33%;
+}
+.columns1 {
+	width: 33.3%;
+	display: inline-block;
+}
+.columns2 {
+	width: 33.3%;
+}
+.columns3 {
+	width: 33.3%;
+}
+
+
+
+
+
+
+
+.footer {
+	background-color: black;
+	color: white;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	text-align: center;
+}
+ul {
+}
+body div ul {
+	display: inline-block;
+
+}
+.row.text-center {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+.col-md-4 p h4 {
+}
+.row-p  {
+	padding-right: 63px;
+	padding-left: 73px;
+
+}
+
+
+
+
+
+.footer p {
+	clear: both;
+	position: relative;
+	bottom: -25px;
+
+
+}
+.navbar.navbar-expand-lg .text-center {
+	float: right;
+	clear: right;
+}
